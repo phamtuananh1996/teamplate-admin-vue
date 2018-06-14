@@ -1,0 +1,33 @@
+{
+  "header":{
+    "dashboard": "Dashboard",
+    "user": "Users",
+    "setting": "Settings"
+  },
+    "dashboard":{
+      "hello_world": "hello world"
+    },
+    "common": {
+      "select_lang": "Language",
+      "add": "Thêm",
+      "edit": "Sửa"
+    },
+    "login": {
+      "title": "Login",
+      "buttons": {
+        "login": "Login"
+      },
+      "input_text": {
+        "email": "Address email",
+        "password": "Password"
+      },
+      "messages": {
+        "register": "Đăng ký",
+        "forgot_password": "Forgot_password?"
+      }
+    },
+    "document": {
+      "add": "Add document",
+      "edit": "Edit document"
+    }
+  }

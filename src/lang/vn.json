@@ -1,0 +1,37 @@
+{
+  "header": {
+    "dashboard": "Trang chủ",
+    "user": "Người dùng",
+    "setting": "Cài đặt"
+  },
+  "dashboard": {
+    "hello_world": "Xin chào thế giới"
+  },
+  "common": {
+    "select_lang": "Ngôn ngữ",
+    "add": "Thêm",
+    "edit": "Sửa"
+  },
+  "login": {
+    "title": "Đăng nhập",
+    "buttons": {
+      "login": "Đăng nhập"
+    },
+    "input_text": {
+      "email": "Địa chỉ email",
+      "password": "Mật khẩu"
+    },
+    "messages": {
+      "register": "Đăng ký",
+      "forgot_password": "Quên mật khẩu?"
+    }
+  },
+  "document": {
+    "title": "Tài liệu",
+    "add": "Thêm tài liệu",
+    "edit": "Sửa tài liệu",
+    "input_text": {
+      "name": "Tên tài liệu"
+    }
+  }
+}
